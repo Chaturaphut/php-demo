@@ -1,5 +1,6 @@
 <?php
-echo "Hello LTC";
+
+echo "Test 12345";
 
 phpinfo();
 
